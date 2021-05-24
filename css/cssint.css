@@ -1,0 +1,14 @@
+span{
+  float: left;
+  border-radius:25px;
+background:#C0C7C3;
+float:left;
+padding:20px;
+margin:20px 0px 10px 100px;
+font-size:20px;
+color: #000000;
+}
+span img {
+	width: 250px;
+	height: 300px;
+}
